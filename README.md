@@ -2,7 +2,7 @@
 
 Meu caderno digital de estudos: cada notebook é uma **aula completa**, que parte da intuição e da teoria formal, passa pela implementação em Python e termina em aplicações reais de **Análise de Dados, Ciência de Dados, Machine Learning e Deep Learning**.
 
-> Objetivo: mostrar que sei a teoria com profundidade **e** sei aplicá-la na prática.
+> Objetivo: mostrar que a teoria com profundidade **e** aplicá-la na prática com Python.
 
 ## Como cada aula é construída
 
