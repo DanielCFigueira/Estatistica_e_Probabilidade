@@ -19,9 +19,9 @@ Meu caderno digital de estudos: cada notebook é uma **aula completa**, que part
 
 | Módulo | Tópico | Status |
 |---|---|---|
-| 01 · Estatística Descritiva | Média aritmética e ponderada | 🔄 em reformulação |
+| 01 · Estatística Descritiva | Média aritmética e ponderada | ✅ |
 | | Média truncada | 🔄 em reformulação |
-| | Mediana | 🔄 em reformulação |
+| | Mediana | ✅ |
 | | Moda | 🔄 em reformulação |
 | | Variância e desvio padrão | 🔄 em reformulação |
 | | Amplitude, quartis e IQR | 🔜 próximo |
